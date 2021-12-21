@@ -1,0 +1,1 @@
+wget -e robots=off --mirror --convert-links --adjust-extension --page-requisites -e robots=off http://your-website.ru/
